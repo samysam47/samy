@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "218054944903",
+    "firebase_url": "https://samy-a6bd3.firebaseio.com",
+    "project_id": "samy-a6bd3",
+    "storage_bucket": "samy-a6bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218054944903:android:9adaff5279149fc5",
+        "android_client_info": {
+          "package_name": "com.ionicframework.samy386160"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218054944903-e4tc8h2a63i2bk3itd90jip3evv2vlmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIJ_ZriXYfoZJYPIt-qmOfqLUOuZQwn9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
